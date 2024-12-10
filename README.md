@@ -17,6 +17,14 @@
 
 ## Application stuides
 ### 1. Smart Grid
+#### Mohsenian-Rad, Amir-Hamed, et al. "Autonomous demand-side management based on game-theoretic energy consumption scheduling for the future smart grid." IEEE transactions on Smart Grid 1.3 (2010): 320-331. [link](https://ieeexplore.ieee.org/abstract/document/5628271)
+- Individual ESS system, NEP
+- The cost function should be a quadratic structure.
+
+#### Mohsenian-Rad, Amir-Hamed, et al. "Optimal and autonomous incentive-based energy consumption scheduling algorithm for smart grid." 2010 Innovative Smart Grid Technologies (ISGT). IEEE, 2010. [link](https://ieeexplore.ieee.org/abstract/document/5434752)
+- Individual ESS system, NEP
+- The cost function should be a quadratic structure.
+
 #### Atzeni, Italo, et al. "Demand-side management via distributed energy generation and storage optimization." IEEE transactions on smart grid 4.2 (2012): 866-876. [link](https://ieeexplore.ieee.org/abstract/document/6297498)
 - Individual ESS system, NEP
 - Proximal Decomposition Algorithm
