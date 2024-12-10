@@ -1,2 +1,3 @@
 # Smart-Grid
-### Demand-Side Management with Shared Energy Storage System in Smart Grid
+## Temp2
+### Distributed generalized Nash equilibrium seeking in aggregative games on time-varying networks
