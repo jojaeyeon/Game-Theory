@@ -1,4 +1,4 @@
-# Game-Theory
+# Reference for the Multi-agent Decision-Making Problem (MADP)
 ## Theory
 ### Nash equilibrium Problem (NEP)
 #### Rosen, J. Ben. "Existence and uniqueness of equilibrium points for concave n-person games." Econometrica: Journal of the Econometric Society (1965): 520-534.
