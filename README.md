@@ -17,6 +17,6 @@
 
 #### Rajasekhar, Batchu, et al. "Collaborative energy management for a residential community: A non-cooperative and evolutionary approach." IEEE Transactions on Emerging Topics in Computational Intelligence 3.3 (2019): 177-192. 
 
-- [Link] https://ieeexplore.ieee.org/abstract/document/8721205
+- [Link](https://ieeexplore.ieee.org/abstract/document/8721205)
 
 - 
