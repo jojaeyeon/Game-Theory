@@ -74,3 +74,9 @@
 
 #### Alasseur, Clémence, Imen Ben Taher, and Anis Matoussi. "An extended mean field game for storage in smart grids." Journal of Optimization Theory and Applications 184 (2020): 644-670. [link](https://link.springer.com/article/10.1007/s10957-019-01619-3)
 - Individual ESS system, extended mean-field game (EMFG)
+
+
+### 3. Cloud
+#### Wolke, Andreas, Martin Bichler, and Thomas Setzer. "Planning vs. dynamic control: Resource allocation in corporate clouds." IEEE Transactions on Cloud Computing 4.3 (2014): 322-335. [link](https://ieeexplore.ieee.org/abstract/document/6910277)
+- Static, dynamic resource allocation
+- Algorithm: round robin, optimization and overbooking, reactive control, proactive control
