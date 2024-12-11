@@ -45,9 +45,15 @@
 - Capacity trading; Only focus ESS capacity; Does not consider energy charging/discharging.
 - Auction policies consists of (1) a determination rule, (2) a payment rule, and (3) a storage allocation rule.
 
+#### Wytock, Matt, Nicholas Moehle, and Stephen Boyd. "Dynamic energy management with scenario-based robust MPC." 2017 American control conference (ACC). IEEE, 2017. [link](https://ieeexplore.ieee.org/abstract/document/7963253)
+- Model predictive control (MPC)
+
 #### Rajasekhar, Batchu, et al. "Collaborative energy management for a residential community: A non-cooperative and evolutionary approach." IEEE Transactions on Emerging Topics in Computational Intelligence 3.3 (2019): 177-192. [link](https://ieeexplore.ieee.org/abstract/document/8721205)
 - Individual ESS system, SLMF problem (Communication aggregator vs active users).
 - Genetic algorithm to compute Stackelberg equilibrium.
 
 #### Chakraborty, Pratyush, et al. "Sharing storage in a smart grid: A coalitional game approach." IEEE Transactions on Smart Grid 10.4 (2018): 4379-4390. [link](https://ieeexplore.ieee.org/abstract/document/8416778)
 - Shared ESS system, coalition game (solution concept: core - shapley value)
+
+#### Alasseur, Clémence, Imen Ben Taher, and Anis Matoussi. "An extended mean field game for storage in smart grids." Journal of Optimization Theory and Applications 184 (2020): 644-670. [link](https://link.springer.com/article/10.1007/s10957-019-01619-3)
+- Individual ESS system, extended mean-field game (EMFG)
