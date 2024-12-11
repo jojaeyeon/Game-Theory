@@ -9,6 +9,9 @@
 - The algorithm is based on the extremum-seeking approach.
 
 ### 2. Generalized Nash equilibrium problem (GNEP)
+#### Facchinei, Francisco, and Christian Kanzow. "Generalized Nash equilibrium problems." 4or 5.3 (2007): 173-210. [link](https://link.springer.com/article/10.1007/s10288-007-0054-4)
+- Existence and Uniqueness of generalized Nash equilibrium for the GNEP.
+
 #### Lu, Kaihong, Gangshan Jing, and Long Wang. "Distributed algorithms for searching generalized Nash equilibrium of noncooperative games." IEEE transactions on cybernetics 49.6 (2018): 2362-2371. [link](https://ieeexplore.ieee.org/abstract/document/8353496)
 - The continuous-time distributed gradient-based projected algorithm is proposed.
   
