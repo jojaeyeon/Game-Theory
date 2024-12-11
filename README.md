@@ -14,7 +14,10 @@
 
 #### Lu, Kaihong, Gangshan Jing, and Long Wang. "Distributed algorithms for searching generalized Nash equilibrium of noncooperative games." IEEE transactions on cybernetics 49.6 (2018): 2362-2371. [link](https://ieeexplore.ieee.org/abstract/document/8353496)
 - The continuous-time distributed gradient-based projected algorithm is proposed.
-  
+
+#### Nabetani, Koichi, Paul Tseng, and Masao Fukushima. "Parametrized variational inequality approaches to generalized Nash equilibrium problems with shared constraints." Computational optimization and applications 48.3 (2011): 423-452. [link](https://link.springer.com/article/10.1007/s10589-009-9256-3)
+- Existence and Uniqueness of generalized Nash equilibrium for the GNEP.
+
 #### Belgioioso, Giuseppe, Angelia Nedić, and Sergio Grammatico. "Distributed generalized Nash equilibrium seeking in aggregative games on time-varying networks." IEEE Transactions on Automatic Control 66.5 (2020): 2061-2075. [link](https://ieeexplore.ieee.org/abstract/document/9130079)
 - The algorithm is obtained by combining dynamic tracking, projected-pseudo-gradient, and Krasnosel'sskii-Mann dynamics.
 
