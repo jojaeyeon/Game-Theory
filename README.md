@@ -32,6 +32,14 @@
 - Individual ESS system, NEP
 - Proximal Decomposition Algorithm
 
+#### Maharjan, Sabita, et al. "Dependable demand response management in the smart grid: A Stackelberg game approach." IEEE Transactions on Smart Grid 4.1 (2013): 120-132. [link](https://ieeexplore.ieee.org/abstract/document/6464552)
+- Individual ESS system, SLMF problem (grid vs active users)
+- Algorithm: analytical solution for lower-level problem
+
+#### Soliman, Hazem M., and Alberto Leon-Garcia. "Game-theoretic demand-side management with storage devices for the future smart grid." IEEE Transactions on Smart Grid 5.3 (2014): 1475-1485. [link](https://ieeexplore.ieee.org/abstract/document/6782430)
+- Individual ESS system, SLMF problem (grid vs active users)
+- Algorithm: Interior point solution for minimax, iterative entropic regularization
+
 #### Nguyen, Hung Khanh, Ju Bin Song, and Zhu Han. "Distributed demand side management with energy storage in smart grid." IEEE Transactions on parallel and distributed systems 26.12 (2014): 3346-3357. [link](https://ieeexplore.ieee.org/abstract/document/6963474)
 - Individual ESS system, NEP
 - Proximal Decomposition Algorithm
