@@ -36,11 +36,18 @@
 - Individual ESS system, NEP
 - Proximal Decomposition Algorithm
 
+#### Lee, Joohyung, et al. "Distributed energy trading in microgrids: A game-theoretic model and its equilibrium analysis." IEEE Transactions on Industrial Electronics 62.6 (2015): 3524-3533. [link](https://ieeexplore.ieee.org/abstract/document/7001088)
+- Individual ESS system, MLMF problem
+- Energy trading; price of anarchy
+
 #### Tushar, Wayes, et al. "Energy storage sharing in smart grid: A modified auction-based approach." IEEE Transactions on Smart Grid 7.3 (2016): 1462-1475. [link](https://ieeexplore.ieee.org/abstract/document/7387779)
-- shared ESS system, SLMF problem (residential units vs shared facility controllers)
-- Only focus ESS capacity. Does not consider energy charging/discharging.
+- Shared ESS system, SLMF problem (residential units vs shared facility controllers)
+- Capacity trading; Only focus ESS capacity; Does not consider energy charging/discharging.
 - Auction policies consists of (1) a determination rule, (2) a payment rule, and (3) a storage allocation rule.
 
 #### Rajasekhar, Batchu, et al. "Collaborative energy management for a residential community: A non-cooperative and evolutionary approach." IEEE Transactions on Emerging Topics in Computational Intelligence 3.3 (2019): 177-192. [link](https://ieeexplore.ieee.org/abstract/document/8721205)
 - Individual ESS system, SLMF problem (Communication aggregator vs active users).
 - Genetic algorithm to compute Stackelberg equilibrium.
+
+#### Chakraborty, Pratyush, et al. "Sharing storage in a smart grid: A coalitional game approach." IEEE Transactions on Smart Grid 10.4 (2018): 4379-4390. [link](https://ieeexplore.ieee.org/abstract/document/8416778)
+- Shared ESS system, coalition game (solution concept: core - shapley value)
