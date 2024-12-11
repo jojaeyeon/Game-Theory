@@ -38,6 +38,7 @@
 
 #### Tushar, Wayes, et al. "Energy storage sharing in smart grid: A modified auction-based approach." IEEE Transactions on Smart Grid 7.3 (2016): 1462-1475. [link](https://ieeexplore.ieee.org/abstract/document/7387779)
 - shared ESS system, SLMF problem (residential units vs shared facility controllers)
+- Only focus ESS capacity. Does not consider energy charging/discharging.
 - Auction policies consists of (1) a determination rule, (2) a payment rule, and (3) a storage allocation rule.
 
 #### Rajasekhar, Batchu, et al. "Collaborative energy management for a residential community: A non-cooperative and evolutionary approach." IEEE Transactions on Emerging Topics in Computational Intelligence 3.3 (2019): 177-192. [link](https://ieeexplore.ieee.org/abstract/document/8721205)
