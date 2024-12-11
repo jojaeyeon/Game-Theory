@@ -52,6 +52,10 @@
 - Individual ESS system, MLMF problem (sellers vs buyers)
 - Energy trading; price of anarchy
 
+#### Powell, Warren B., and Stephan Meisel. "Tutorial on stochastic optimization in energy—Part I: Modeling and policies." IEEE Transactions on Power Systems 31.2 (2015): 1459-1467. [link](https://ieeexplore.ieee.org/abstract/document/7097741)
+#### Powell, Warren B., and Stephan Meisel. "Tutorial on stochastic optimization in energy—Part II: An energy storage illustration." IEEE Transactions on Power Systems 31.2 (2015): 1468-1475. [link](https://ieeexplore.ieee.org/abstract/document/7100937)
+- Algorithm: Control theory, dynamic programming, stochastic programming, robust optimization
+
 #### Tushar, Wayes, et al. "Energy storage sharing in smart grid: A modified auction-based approach." IEEE Transactions on Smart Grid 7.3 (2016): 1462-1475. [link](https://ieeexplore.ieee.org/abstract/document/7387779)
 - Shared ESS system, SLMF problem (residential units vs shared facility controllers)
 - Capacity trading; Only focus ESS capacity; Does not consider energy charging/discharging.
@@ -65,12 +69,20 @@
 #### Wytock, Matt, Nicholas Moehle, and Stephen Boyd. "Dynamic energy management with scenario-based robust MPC." 2017 American control conference (ACC). IEEE, 2017. [link](https://ieeexplore.ieee.org/abstract/document/7963253)
 - Model predictive control (MPC)
 
+#### Li, Chaojie, et al. "Efficient computation for sparse load shifting in demand side management." IEEE Transactions on Smart Grid 8.1 (2016): 250-261. [link](https://ieeexplore.ieee.org/abstract/document/7406760)
+- Individual ESS system, NEP
+- Algorithm: Newton's method
+
 #### Rajasekhar, Batchu, et al. "Collaborative energy management for a residential community: A non-cooperative and evolutionary approach." IEEE Transactions on Emerging Topics in Computational Intelligence 3.3 (2019): 177-192. [link](https://ieeexplore.ieee.org/abstract/document/8721205)
 - Individual ESS system, SLMF problem (Communication aggregator vs active users).
 - Genetic algorithm to compute Stackelberg equilibrium.
 
 #### Chakraborty, Pratyush, et al. "Sharing storage in a smart grid: A coalitional game approach." IEEE Transactions on Smart Grid 10.4 (2018): 4379-4390. [link](https://ieeexplore.ieee.org/abstract/document/8416778)
 - Shared ESS system, coalition game (solution concept: core - shapley value)
+
+#### Etesami, S. Rasoul, et al. "Stochastic games for the smart grid energy management with prospect prosumers." IEEE Transactions on Automatic Control 63.8 (2018): 2327-2342. [link](https://ieeexplore.ieee.org/abstract/document/8267262)
+- Individual ESS system, stochastic SLMF problem (grid vs prosumers)
+- Prospect theory + Algorithm: distributed learning + no-regret algorithm
 
 #### Alasseur, Clémence, Imen Ben Taher, and Anis Matoussi. "An extended mean field game for storage in smart grids." Journal of Optimization Theory and Applications 184 (2020): 644-670. [link](https://link.springer.com/article/10.1007/s10957-019-01619-3)
 - Individual ESS system, extended mean-field game (EMFG)
