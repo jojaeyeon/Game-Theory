@@ -40,18 +40,27 @@
 - Individual ESS system, SLMF problem (grid vs active users)
 - Algorithm: Interior point solution for minimax, iterative entropic regularization
 
+#### Wang, Yunpeng, et al. "A game-theoretic approach to energy trading in the smart grid." IEEE Transactions on Smart Grid 5.3 (2014): 1439-1450. [link](https://ieeexplore.ieee.org/abstract/document/6798766)
+- Individual ESS system, NEP (active users)
+- Energy trading; Prove convergence to Nash equilibrium 
+
 #### Nguyen, Hung Khanh, Ju Bin Song, and Zhu Han. "Distributed demand side management with energy storage in smart grid." IEEE Transactions on parallel and distributed systems 26.12 (2014): 3346-3357. [link](https://ieeexplore.ieee.org/abstract/document/6963474)
 - Individual ESS system, NEP
 - Proximal Decomposition Algorithm
 
 #### Lee, Joohyung, et al. "Distributed energy trading in microgrids: A game-theoretic model and its equilibrium analysis." IEEE Transactions on Industrial Electronics 62.6 (2015): 3524-3533. [link](https://ieeexplore.ieee.org/abstract/document/7001088)
-- Individual ESS system, MLMF problem
+- Individual ESS system, MLMF problem (sellers vs buyers)
 - Energy trading; price of anarchy
 
 #### Tushar, Wayes, et al. "Energy storage sharing in smart grid: A modified auction-based approach." IEEE Transactions on Smart Grid 7.3 (2016): 1462-1475. [link](https://ieeexplore.ieee.org/abstract/document/7387779)
 - Shared ESS system, SLMF problem (residential units vs shared facility controllers)
 - Capacity trading; Only focus ESS capacity; Does not consider energy charging/discharging.
 - Auction policies consists of (1) a determination rule, (2) a payment rule, and (3) a storage allocation rule.
+
+#### Dimitrov, Petio, Luigi Piroddi, and Maria Prandini. "Distributed allocation of a shared energy storage system in a microgrid." 2016 American Control Conference (ACC). IEEE, 2016. [link](https://ieeexplore.ieee.org/abstract/document/7525464)
+- Shared ESS system, NEP
+- Capacity trading; negotiation process for the optimization of the resoure shares.
+- Possible for the small number of users; heuristic policies should be enforced.
 
 #### Wytock, Matt, Nicholas Moehle, and Stephen Boyd. "Dynamic energy management with scenario-based robust MPC." 2017 American control conference (ACC). IEEE, 2017. [link](https://ieeexplore.ieee.org/abstract/document/7963253)
 - Model predictive control (MPC)
