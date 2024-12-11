@@ -21,6 +21,11 @@
 #### Belgioioso, Giuseppe, Angelia Nedić, and Sergio Grammatico. "Distributed generalized Nash equilibrium seeking in aggregative games on time-varying networks." IEEE Transactions on Automatic Control 66.5 (2020): 2061-2075. [link](https://ieeexplore.ieee.org/abstract/document/9130079)
 - The algorithm is obtained by combining dynamic tracking, projected-pseudo-gradient, and Krasnosel'sskii-Mann dynamics.
 
+### 3. Single-leader multi-follower (SLMF) problem
+#### Jo, Jaeyeon, Jihwan Yu, and Jinkyoo Park. "Computing Algorithm for an Equilibrium of the Generalized Stackelberg Game." arXiv preprint arXiv:2306.05732 (2023). [link](https://arxiv.org/abs/2306.05732)
+- Existence and Uniqueness of general Stackelberg equilibrium.
+- The PIGD algorithm converges to the general Stackelberg equilibrium.
+
 ## Application stuides
 ### 1. Smart Grid
 #### Mohsenian-Rad, Amir-Hamed, et al. "Autonomous demand-side management based on game-theoretic energy consumption scheduling for the future smart grid." IEEE transactions on Smart Grid 1.3 (2010): 320-331. [link](https://ieeexplore.ieee.org/abstract/document/5628271)
@@ -89,6 +94,14 @@
 
 #### Alasseur, Clémence, Imen Ben Taher, and Anis Matoussi. "An extended mean field game for storage in smart grids." Journal of Optimization Theory and Applications 184 (2020): 644-670. [link](https://link.springer.com/article/10.1007/s10957-019-01619-3)
 - Individual ESS system, extended mean-field game (EMFG)
+
+#### Jo, Jaeyeon, and Jinkyoo Park. "Demand-side management with shared energy storage system in smart grid." IEEE Transactions on Smart Grid 11.5 (2020): 4466-4476. [link](https://ieeexplore.ieee.org/abstract/document/9033984)
+- Shared ESS system, GNEP
+- Capacity trading; Focus both eSS capacity trading and energy charging/discharging.
+
+#### Jo, Jaeyeon, Jihwan Yu, and Jinkyoo Park. "Incentive Design of Shared ESS Energy Trading Game." IEEE Transactions on Control Systems Technology (2024). [link](https://ieeexplore.ieee.org/abstract/document/10745120)
+- Shared ESS system, SLMF problem (shared ESS operator vs active users)
+- Incentive design
 
 ### 2. Ride-Hailing & EV dispatching
 
