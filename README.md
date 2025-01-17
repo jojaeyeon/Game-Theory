@@ -4,12 +4,16 @@
 #### Rosen, J. Ben. "Existence and uniqueness of equilibrium points for concave n-person games." Econometrica: Journal of the Econometric Society (1965): 520-534. [link](https://www.jstor.org/stable/1911749)
 - Existence and Uniqueness of Nash equilibrium for the NEP.
 
+#### Tinti, Federica. "Numerical solution for pseudomonotone variational inequality problems by extragradient methods." Variational analysis and applications. Boston, MA: Springer US, 2005. 1101-1128. [link](https://link.springer.com/chapter/10.1007/0-387-24276-7_63)
+- Introduce algorithms to solve the variational inequality problem.
+- Khobotov's method, Extragradient method, Solodov and Tseng (S-T) method
+
 #### Frihauf, Paul, Miroslav Krstic, and Tamer Basar. "Nash equilibrium seeking in noncooperative games." IEEE Transactions on Automatic Control 57.5 (2011): 1192-1207. [link](https://ieeexplore.ieee.org/abstract/document/6060862/)
 - Locally stable convergence to Nash equilibria in static, noncooperative games.
 - The algorithm is based on the extremum-seeking approach.
 
 #### Malitsky, Yu. "Projected reflected gradient methods for monotone variational inequalities." SIAM Journal on Optimization 25.1 (2015): 502-520. [link](https://epubs.siam.org/doi/abs/10.1137/14097238X)
-- The projected reflected gradient descent (PRGD) method is introduced for solving the variational inequalty problem.
+- The projected reflected gradient descent (PRGD) method is introduced to solve the variational inequality problem.
 
 ### 2. Generalized Nash equilibrium problem (GNEP)
 #### Facchinei, Francisco, and Christian Kanzow. "Generalized Nash equilibrium problems." 4or 5.3 (2007): 173-210. [link](https://link.springer.com/article/10.1007/s10288-007-0054-4)
@@ -100,14 +104,47 @@
 
 #### Jo, Jaeyeon, and Jinkyoo Park. "Demand-side management with shared energy storage system in smart grid." IEEE Transactions on Smart Grid 11.5 (2020): 4466-4476. [link](https://ieeexplore.ieee.org/abstract/document/9033984)
 - Shared ESS system, GNEP
-- Capacity trading; Focus both eSS capacity trading and energy charging/discharging.
+- Capacity trading; Focus both ESS capacity trading and energy charging/discharging.
+
+#### Mediwaththe, Chathurika P., et al. "An incentive-compatible energy trading framework for neighborhood area networks with shared energy storage." IEEE Transactions on Sustainable Energy 11.1 (2019): 467-476. [link](https://ieeexplore.ieee.org/abstract/document/8626171)
+- Shared ESS system, SLMF
+- Incentive design, Vickrey-Clarke-Groves Mechanism
 
 #### Jo, Jaeyeon, Jihwan Yu, and Jinkyoo Park. "Incentive Design of Shared ESS Energy Trading Game." IEEE Transactions on Control Systems Technology (2024). [link](https://ieeexplore.ieee.org/abstract/document/10745120)
 - Shared ESS system, SLMF problem (shared ESS operator vs active users)
 - Incentive design
 
-### 2. Ride-Hailing & EV dispatching
+### 2. EV charging/dispatching, Ride-sharing/hailing
+#### Ma, Zhongjing, Duncan S. Callaway, and Ian A. Hiskens. "Decentralized charging control of large populations of plug-in electric vehicles." IEEE Transactions on control systems technology 21.1 (2011): 67-78. [link](https://ieeexplore.ieee.org/abstract/document/6081962)
+- EV charging schedule to reduce PAR, NEP, decentralized control
 
+#### Gan, Lingwen, Ufuk Topcu, and Steven H. Low. "Optimal decentralized protocol for electric vehicle charging." IEEE Transactions on Power Systems 28.2 (2012): 940-951. [link](https://ieeexplore.ieee.org/abstract/document/6313962)
+- EV charging schedule to reduce PAR, NEP, decentralized control
+
+#### Tushar, Wayes, et al. "Economics of electric vehicle charging: A game theoretic approach." IEEE Transactions on Smart Grid 3.4 (2012): 1767-1778. [link](https://ieeexplore.ieee.org/abstract/document/6295695)
+- EV charging schedule, SLMF problem, Stackelberg equilibrium
+- Analytical solution can be computed
+
+#### Banerjee, Siddhartha, Carlos Riquelme, and Ramesh Johari. "Pricing in ride-share platforms: A queueing-theoretic approach." Available at SSRN 2568258 (2015). [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2568258)
+- Ride-sharing platform, incentive design
+- Queueing theory
+
+#### Xu, Zhe, et al. "Large-scale order dispatch in on-demand ride-hailing platforms: A learning and planning approach." Proceedings of the 24th ACM SIGKDD international conference on knowledge discovery & data mining. 2018. [link](https://dl.acm.org/doi/abs/10.1145/3219819.3219824)
+- Ride-hailing, real-time algorithm, combinatorial algorithm, value function-based
+
+#### Lu, Wei, and Luca Quadrifoglio. "Fair cost allocation for ridesharing services–modeling, mathematical programming and an algorithm to find the nucleolus." Transportation Research Part B: Methodological 121 (2019): 41-55. [link](https://www.sciencedirect.com/science/article/pii/S019126151730944X)
+- Ride-sharing, coalition game, simple case
+
+#### Sadeghi, Armin, and Stephen L. Smith. "On re-balancing self-interested agents in ride-sourcing transportation networks." 2019 IEEE 58th Conference on Decision and Control (CDC). IEEE, 2019. [link](https://ieeexplore.ieee.org/abstract/document/9030043)
+- Ride-sharing platform management (NP-hard), matching rule
+- Provide algorithms to find near-optimal control
+
+#### Ma, Hongyao, Fei Fang, and David C. Parkes. "Spatio-temporal pricing for ridesharing platforms." ACM SIGecom Exchanges 18.2 (2020): 53-57. [link](https://dl.acm.org/doi/abs/10.1145/3440968.3440975)
+- Ride-sharing platform management, incentive design
+- simple case
+
+#### Afeche, Philipp, Zhe Liu, and Costis Maglaras. "Ride-hailing networks with strategic drivers: The impact of platform control capabilities on performance." Rotman School of Management Working Paper 3120544 (2022): 18-19. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3120544)
+- Ride-hailing platform management, game-theoretic fluid model
 
 ### 3. Cloud
 #### Wolke, Andreas, Martin Bichler, and Thomas Setzer. "Planning vs. dynamic control: Resource allocation in corporate clouds." IEEE Transactions on Cloud Computing 4.3 (2014): 322-335. [link](https://ieeexplore.ieee.org/abstract/document/6910277)
