@@ -8,6 +8,9 @@
 - Locally stable convergence to Nash equilibria in static, noncooperative games.
 - The algorithm is based on the extremum-seeking approach.
 
+#### Malitsky, Yu. "Projected reflected gradient methods for monotone variational inequalities." SIAM Journal on Optimization 25.1 (2015): 502-520. [link](https://epubs.siam.org/doi/abs/10.1137/14097238X)
+- The projected reflected gradient descent (PRGD) method is introduced for solving the variational inequalty problem.
+
 ### 2. Generalized Nash equilibrium problem (GNEP)
 #### Facchinei, Francisco, and Christian Kanzow. "Generalized Nash equilibrium problems." 4or 5.3 (2007): 173-210. [link](https://link.springer.com/article/10.1007/s10288-007-0054-4)
 - Existence and Uniqueness of generalized Nash equilibrium for the GNEP.
